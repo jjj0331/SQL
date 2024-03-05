@@ -47,6 +47,8 @@
 
 
 ## ステップ2: 
+データベースの作成方法は以下の資料に記載しております。
+https://docs.google.com/spreadsheets/d/1K2R0FrHGfNNYfnSIbVtJUYZtgjRVwLXRMcjXpK2euPk/edit?pli=1#gid=0
 
    
 ## ステップ３: 
